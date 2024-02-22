@@ -8,23 +8,15 @@
         body{
             background-color:rgb(240, 232, 240);
         }
-        
-        
-        
-        
         img{
-            margin-left:150px;
-            
+            margin-left:150px;   
         }
-        
-        
+
         span{
             color:rgb(222, 11, 222);
             font-family:monotype corsiva;
             font-size:1.3em;
         }
-        
-        
         span.bold{
             color:red;
             font-family:chiller;
@@ -33,17 +25,15 @@
        
         </style>
     </head>
+
     <body>
-        
-    
      <h1 style="text-align:center; color:orange;  text-shadow:-1px -2px black; margin-left:10px  ">----The Future World---- </h1> 
-       
      <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/mountains-sunset.png" width="300px">
-     
    
-   <p style=" font-family:monotype corsiva; font-size:1.3em; color:purple; border:3px ridge orange; padding:10px">
+<p style=" font-family:monotype corsiva; font-size:1.3em; color:purple; border:3px ridge orange; padding:10px">
    
-   The future world is good and bad...if you are going to read this book and NEED it, step right up!!! I am going to tell you what I think and know about our bright and not-so-bright future!!!
+   The future world is good and bad...if you are going to read this book and NEED it, step right up!!! I am going to tell you what I 
+think and know about our bright and not-so-bright future!!!
    </p><br> <br> <br>                                                                     
    
    <h2 style="background-color: purple;color:white; font-family:Old English Text MT; border-bottom: 8px dotted pink; border-top: 8px dotted pink; font-size:1.7em 
@@ -52,31 +42,34 @@
  
  <p style=" color:black"> 
  
- You are tired..."Yawn" you say, (you said yawn instead of yawning)!!! You say "I would love a glass of water and my favorite cozy red blanket"!! Now you hear something..."wirrrrrrrr" <span>Well you are in luck! You have your own human-like-robot-or...A.I. named Nidhi...after your B.F.F...Nidhi!!! So you get your glass of water and your favorite cozy red blanket from Nidhi unit 11223344556677889900009988777665544332211 or Nidhi ha ha ha!!!</span> You say "Thank you Nidhi"!!! "You are welcome Blue Rose"!!! Says Nidhi your forever BFF a robot or a human!!! 
-     
- </p>                                                                                                                                  
- 
- <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/starky-sapling.png" alt="black devil cartoon pic" >
- 
+ You are tired..."Yawn" you say, (you said yawn instead of yawning)!!! You say "I would love a glass of water and my favorite cozy red blanket"!! 
+Now you hear something..."wirrrrrrrr" <span>Well you are in luck! You have your own human-like-robot-or...A.I.
+named Nidhi...after your B.F.F...Nidhi!!! So you get your glass of water and your favorite cozy red blanket from Nidhi unit 
+11223344556677889900009988777665544332211 or Nidhi ha ha ha!!!</span> You say "Thank you Nidhi"!!! "You are welcome Blue Rose"!!! 
+Says Nidhi your forever BFF a robot or a human!!!  </p>                                                                                                                                  
+
+<img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/starky-sapling.png" alt="black devil cartoon pic" >
  
 <strong style=" color:rgb(236, 9, 240); font-family:Colonna MT; font-size:2em "> Ain't she right!!!! </strong>       
-
-
 <p style="font-size:1.4em; font-family:Old English Text MT; color:white; background-color:pink; padding:12px ; margin-top:40px">
-The future is not only about robots, its more. write about other technologies also!! write about farming tech, smart homes, flying cars, Moon trips etc...<span class= "bold"> Got it girl...Ok I get it, I will do it NOW!!!!!</span>
-
+The future is not only about robots, its more. write about other technologies also!! write about farming tech, smart homes,
+flying cars, Moon trips etc...<span class= "bold"> Got it girl...Ok I get it, I will do it NOW!!!!!</span>
 </p>
 
 <h1 style="font-family:Old English Text MT; background-color:purple; color:white ">Chapter 2:Future Homes Part 1 The Shower </h1><br>                                                                             
-                                                                    <p > I need to take a shower!!! But what if the water is too cold and what if the water is too hot??? Then you see some thing, but, what is it??? It is a finger print device!!! Your parents got it installed by Nidhi (robot)!!! And your parents made YOU be the first person to try it!!! You are worried if it blasts or something but, you take a deep breath and scan YOUR finger print...but does it blast??? Nope!!! Does it HACK YOU??? No...does it KILL YOU??? NEVER!!! It just starts water spray just like you wish at the time... half full blast, and also is at just the temrature you want... warm+a little hot!!! You guess it is not even that bad!!! </p> 
-
+<p > I need to take a shower!!! But what if the water is too cold and what if the water is too hot??? Then you see some thing, but, what is it???
+It is a finger print device!!! Your parents got it installed by Nidhi (robot)!!! And your parents made YOU be the first person to try it!!!
+You are worried if it blasts or something but, you take a deep breath and scan YOUR finger print...but does it blast??? Nope!!! Does it HACK YOU??? 
+No...does it KILL YOU??? NEVER!!! It just starts water spray just like you wish at the time... half full blast, and also is at just the 
+temrature you want... warm+a little hot!!! You guess it is not even that bad!!! </p> 
 <h1>Chapter 3:The Future Resturant</h1>
 <br>
- 
- <p> You want to go to eat out with your friend Nidhi (human) and Ridima so you meet Nidhi+Ridima outside your house and walk and talk there at the restrant!!! you tap the menu on the ipad-like-table and order three pizzas three bowls of MAC and two Fanta and one Coka Gola to drink along with pizza and MAC (short  word for MAC and chesse (M for Mac A for And and C for Cheese=MAC))!!! So, then after a min a robot gives you what you ordered and you pay on the robot's body ipad the robot then just give you a free desert because you paid and the amout was 140$ but you gave a tip too so you and your friends got icecream because it was summer and you paid 200$ and one icecream cost 20$ so you got three of them one for you, one for Nidhi, and one for Ridima!!!</p>
-
-
-
-        
+ <p> You want to go to eat out with your friend Nidhi (human) and Ridima so you meet Nidhi+Ridima outside your house and walk and talk 
+there at the restrant!!! you tap the menu on the ipad-like-table and order three pizzas three bowls of MAC and two Fanta and one 
+Coka Gola to drink along with pizza and MAC (short  word for MAC and chesse (M for Mac A for And and C for Cheese=MAC))!!! So, 
+then after a min a robot gives you what you ordered and you pay on the robot's body ipad the robot then just give you a free 
+desert because you paid and the amout was 140$ but you gave a tip too so you and your friends got icecream because it was summer and you paid 200$ and
+one icecream cost 20$ so you got three of them one for you, one for Nidhi, and one for Ridima!!!</p>
+     
     </body>
 </html>
